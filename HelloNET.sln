@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HelloNET", "HelloNET\HelloNET.vbproj", "{DDFE3D55-DE7D-4E07-B4B6-09FAAF2D8228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFE3D55-DE7D-4E07-B4B6-09FAAF2D8228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFE3D55-DE7D-4E07-B4B6-09FAAF2D8228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFE3D55-DE7D-4E07-B4B6-09FAAF2D8228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFE3D55-DE7D-4E07-B4B6-09FAAF2D8228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09B48480-F7CE-427A-85F8-203B95CFCBFD}
+	EndGlobalSection
+EndGlobal
